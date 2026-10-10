@@ -1,7 +1,7 @@
 // BUBBLE SORT - optimized (with swapped flag)
 // If a full pass makes no swaps, array is already sorted -> stop early.
 
-public class BubbleSort_Optimized {
+public class Q2_BubbleSort_Optimized {
 
     public static void main(String[] args) {
         int[] arr = {5, 3, 8, 1, 2};

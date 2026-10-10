@@ -1,6 +1,6 @@
 // BUBBLE SORT - simple version
 
-public class BubbleSort_Basic {
+public class Q1_BubbleSort_Basic {
     public static void main(String[] args) {
         int[] arr = {5, 3, 8, 1, 2};
         int n = arr.length;

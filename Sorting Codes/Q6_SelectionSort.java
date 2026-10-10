@@ -1,7 +1,7 @@
 // SELECTION SORT
 // For each i, find the min in arr[i..n-1], swap it into i.
 
-public class SelectionSort {
+public class Q6_SelectionSort {
     public static void main(String[] args) {
         int[] arr = {5, 3, 8, 1, 2};
         int n = arr.length;
